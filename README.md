@@ -24,7 +24,8 @@
 
 <div align="center">
   
-![Pegasus OSINT Dashboard](pegasus-osint.png)
+![Pegasus OSINT Dashboard](https://github.com/user-attachments/assets/85ebdd7e-ec08-4668-9bb0-a3b936cf134e
+)
 *Pegasus OSINT Intelligence Dashboard*
 
 </div>
@@ -35,5 +36,9 @@
 
 ### ⚠️ Legal Disclaimer
 https://github.com/user-attachments/assets/7f5dc211-d76f-4b5d-b806-af3d7ffe42fa
+
+
+
+
 
 
