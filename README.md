@@ -2,6 +2,12 @@
   
 # 🦅 PEGASUS OSINT - Intelligence Gathering Tool 🔍
 
+
+![6174698804871892635](https://github.com/user-attachments/assets/24fa10c4-bf2c-41aa-b176-c74a2687c7ef)
+
+
+
+
 ### *Advanced Open Source Intelligence Framework*
 
 [![Version](https://img.shields.io/badge/version-2.0.0-red.svg)](https://github.com/yourusername/pegasus-osint)
@@ -28,3 +34,6 @@
 **Pegasus OSINT** adalah framework intelligence gathering yang powerful untuk mengumpulkan informasi dari sumber terbuka. Dirancang untuk profesional keamanan, peneliti, dan investigator digital.
 
 ### ⚠️ Legal Disclaimer
+https://github.com/user-attachments/assets/7f5dc211-d76f-4b5d-b806-af3d7ffe42fa
+
+
