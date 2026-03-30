@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🦅 PEGASUS OSINT - Intelligence Gathering Tool 🔍
+# PEGASUS OSINT - Intelligence Gathering Tool 🔍
 
 
 ![6174698804871892635](https://github.com/user-attachments/assets/24fa10c4-bf2c-41aa-b176-c74a2687c7ef)
@@ -9,6 +9,10 @@
 
 
 ### *Advanced Open Source Intelligence Framework*
+
+<div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
 [![Version](https://img.shields.io/badge/version-2.0.0-red.svg)](https://github.com/yourusername/pegasus-osint)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
