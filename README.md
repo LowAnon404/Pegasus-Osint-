@@ -1,7 +1,3 @@
-<div align="center">
-  
-# PEGASUS OSINT - Intelligence Gathering Tool 🔍
-
 
 ![6174698804871892635](https://github.com/user-attachments/assets/24fa10c4-bf2c-41aa-b176-c74a2687c7ef)
 
